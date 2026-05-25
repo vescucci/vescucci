@@ -5,6 +5,4 @@ title: Home
 
 # Welcome
 
-This is my website.
-
-I am using Jekyll and GitHub Pages to build a simple site with a log book.
+I'm figuring out how to make a website using markdown text files. Please enjoy my hunting log for Monster Hunter 2.
