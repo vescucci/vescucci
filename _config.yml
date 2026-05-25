@@ -1,4 +1,23 @@
-title: vescucci
-description: Myrtle Beach bound streamer, monster hunter, artist, and game developer.
+title: vesucci
+description: Myrtle Beach bound streamer, monster hunter, artist, writer, and game developer.
+author: Matt (vescucci)
+
 theme: minima
+
 permalink: /log/:title/
+
+header_pages:
+  - about.md
+  - index.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+  - scope:
+      path: ""
+    values:
+      layout: page
