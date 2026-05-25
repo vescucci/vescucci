@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 1</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Day 1</h1>
+
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../hunters-log.html">Log Book</a>
+    </nav>
+  </header>
+
+  <main>
+    <p class="date">May 9, 2026</p>
+
+    <h2>Jumbo Village Quests</h2>
+      
+    <p>Jungle Expedition / Gathering.</p>
+  
+    <p>Warm Season / Day / Jungle</p>
+  
+    <p>Seeking Unique Mushtrooms for Quest Completion.</p>
+  
+    <p>Seeking Unique Mushtrooms for Quest Completion.</p>
+  
+  </main>
+
+</body>
+</html>
