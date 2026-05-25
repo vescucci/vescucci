@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Day 1"
+date: 2026-05-09
+---
+**Quests Completed: 5**
+
+# Jumbo Village - 4 Quests
+**Explore the Jungle!** / Gathering
+*Warm Season / Day / Jungle*
+Seeking Unique Mushrooms for Quest Completion, and gathering to prepare for further quests.
+Carts: 1
+
+**Explore the Jungle!** / Gathering
+*Warm Season / Day / Jungle*
+Seeking Bullfango Pelts for the Jumbo Village Chief.
+Carts: 1
+
+**The Blue Hunter's Domain** / Velocidrome
+*Warm Season / Day / Jungle*
+Slaying the Velocidrome to help the village grow.
+Carts: 2
+
+**Jungle Expedition** / Gathering
+*Warm Season / Night / Jungle*
+Seeking 1 Hermitaur Shell, 5 Sunset Herbs, and 3 Sunlight Stones to fulfil the Combo Master's request.
+Unsuccessful.
+Carts: 0
+
+# Dundorma - 1 Quest
+**A Recklass Rush** / Bulldrome
+*Cold Season / Night / Jungle*
+Questing for Hunter Rank progression.
+Hunting Party: vescucci, purire
+Carts: 0
