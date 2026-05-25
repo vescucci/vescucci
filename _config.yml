@@ -4,8 +4,6 @@ author: Matt (vescucci)
 
 theme: minima
 
-permalink: /log/:title/
-
 header_pages:
   - about.md
   - index.md
